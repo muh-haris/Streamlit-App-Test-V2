@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000" # our FastAPI server
+API_URL = "https://bountiful-numerous-gulf.ngrok-free.dev" # our FastAPI server
 
 st.set_page_config(
     page_title = "Student Predictor",
